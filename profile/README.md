@@ -44,7 +44,7 @@ Start with **battGPT** for the knowledge layer, **K-Ont** and **K-OnT-Research**
 
 ## About us
 
-We are **Team 25**, a five-member student research team working on **Knowledge-Driven Representation and Analysis of Battery Cathode Materials for Accelerated Discovery** as part of **23CSE498 - Project Phase 2**.
+We are **Team 25**, a five-member student research team working on **Knowledge-Driven Representation and Analysis of Battery Cathode Materials for Accelerated Discovery**.
 
 ### Team members
 

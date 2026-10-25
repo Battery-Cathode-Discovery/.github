@@ -42,6 +42,27 @@ This is the overall research workflow. The knowledge-conditioned generation and 
 
 Start with **battGPT** for the knowledge layer, **K-Ont** and **K-OnT-Research** for representations and conditioning, and **Novo-Oxi-Cathode-Discovery** for the structure discovery track. Setup instructions, experiments, and implementation details belong to the individual repositories.
 
+## About us
+
+We are **Team 25**, a five-member student research team working on **Knowledge-Driven Representation and Analysis of Battery Cathode Materials for Accelerated Discovery** as part of **23CSE498 - Project Phase 2**.
+
+### Team members
+
+| Name | Register number |
+| --- | --- |
+| Akshay KS | CB.SC.U4CSE23104 |
+| R.D.Tarun | CB.SC.U4CSE23138 |
+| S Ajeth | CB.SC.U4CSE23142 |
+| Sarvesha NK | CB.SC.U4CSE23145 |
+| Shantharam P | CB.SC.U4CSE23146 |
+
+### Research guidance
+
+| Role | Faculty | Designation |
+| --- | --- | --- |
+| Guide | Dr. Gowtham R | Associate Professor, Department of CSE |
+| Co-guide | Dr. M. Ulaganathan | Chairperson, Department of Physics |
+
 ## Foundations
 
 Our work builds on EMMO, BattINFO, OnT, CrystaLLM, MatterGen, MatterSim, pymatgen, and Materials Project. Upstream software, ontologies, models, and datasets retain their respective authorship and licences; consult each repository for attribution and usage terms.
